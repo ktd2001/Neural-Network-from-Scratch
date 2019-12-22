@@ -17,4 +17,4 @@ Image: Learning Improved when SSR Value Decreases
 <img src="NNSigmoid.png" width="400" >
 
 <img src="NNReLu.png" width="400" >
-Shows 
+ 
