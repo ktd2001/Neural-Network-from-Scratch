@@ -12,8 +12,9 @@ Image: Neural Network Structure
 
 Results: With the right learning rate and additional epochs, quite naturally the algorithms is able to find the a better minimun as it moves through the gradient decent. Overall, the sigmoid function is not as good as the reLU activation function in this case because it provided more accurate predictions.
 
-Image: Shows Learning Improved when SSR Value Decreases
+Image: Learning Improved when SSR Value Decreases
 
 <img src="NNSigmoid.png" width="400" >
 
 <img src="NNReLu.png" width="400" >
+Shows 
